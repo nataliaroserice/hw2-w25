@@ -49,6 +49,14 @@ div {
     border-left: 5px solid #FFFFFF
 }
 
+.red h2 {
+    color: #0D0D0D;
+}
+
+.red p {
+    color: #FFFFFF;
+}
+
 .blue {
     background-color: #0000FF;
     text-align: left;
@@ -58,7 +66,7 @@ div {
     border-right: 5px solid #FFFFFF;
 }
 
-.blue h1, h2, p {
+.blue h1, .blue h2, .blue p {
     color: #C4C4C4;
 }
 
@@ -71,9 +79,6 @@ div {
     border-left: 5px solid #FFFFFF;
 }
 
-.yellow h2 {
-    color: #0D0D0D;
-}
 .yellow p {
     color: #707070;
 }
